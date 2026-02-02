@@ -1,4 +1,5 @@
 # demo
 my first repository .
 <br>
-Author - tophan .
+Author - tophan kumar nath .
+Writer - Dhani .
